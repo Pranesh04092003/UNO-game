@@ -1,7 +1,7 @@
 
-function signInWithSnapchat() {
+function signInWithInstagram() {
     // Replace with your Snapchat authentication URL or function
-    window.location.href = "";
+    window.location.href = "www.google.com";
 }
 
 // Initial setup
